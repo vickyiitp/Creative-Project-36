@@ -1,0 +1,5 @@
+{
+  "name": "NAND Architect",
+  "description": "A PCB-styled logic gate puzzle game where you build circuits to solve increasingly complex boolean logic challenges.",
+  "requestFramePermissions": []
+}
